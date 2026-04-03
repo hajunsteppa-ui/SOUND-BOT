@@ -1,0 +1,18 @@
+{
+  "name": "st-bot-fca",
+  "version": "1.0.0",
+  "description": "Messenger ST Bot with spam, thread management, auto leave/kick, and web panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "facebook-bot",
+    "fca",
+    "messenger-bot",
+    "st-bot"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4

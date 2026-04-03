@@ -1,0 +1,8 @@
+{
+  "email": "sinbatangnorthside@gmail.com",
+  "password": "batangsin",
+  "admins": ["61579551575273"],
+  "autoLeave": false,
+  "autoKick": true,
+  "port": 3000
+}
