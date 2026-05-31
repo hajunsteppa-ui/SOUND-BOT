@@ -1,4 +1,4 @@
-const OWNER_ID = "61579551575273";
+const OWNER_ID = "61590072912871";
 
 let active = {};
 let lists = {};
